@@ -1,2 +1,2 @@
-# DX-toast-log
-log error and warnings without actually opening the console.log or dev tools
+# Backend for Vaccine App
+Flask based python REST API Backend for Vaccine Trails App
